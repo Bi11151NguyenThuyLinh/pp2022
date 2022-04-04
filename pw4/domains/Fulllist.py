@@ -1,0 +1,3 @@
+class Fulllist:
+    students = []
+    courses = []
